@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashpatilyp2001@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](Resume Link)
+
 
 - ⚡ Fun fact **I enjoy solving complex problems with efficient code and love exploring new technologies in my free time!**
 
