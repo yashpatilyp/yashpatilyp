@@ -2,7 +2,7 @@
   
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
 # 💫 About Me:
-I'm a Full Stack Developer at Xgrace Technologies Pvt. Ltd., passionate about building scalable web applications and enhancing user experiences. I specialize in React.js, Node.js, Next.js, and API integrations while continuously exploring new technologies.
+I'm a Software Developer at Pitasys Pvt. Ltd. Pune, passionate about building scalable web applications and enhancing user experiences. I specialize in React.js, Node.js, Next.js, and API integrations while continuously exploring new technologies.
 
 
 ## 🌐 Socials:
